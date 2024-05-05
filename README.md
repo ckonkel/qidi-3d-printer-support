@@ -8,6 +8,11 @@ resources from
 * facebook
 * and personal troubleshooting
 
+# octoeverywhere.com
+
+* https://wiki.qidi3d.com/en/Memo/octoeverywhere
+* Make sure to reboot after install
+
 # Firmware
 
 ## Restore emmc to factory firmware
