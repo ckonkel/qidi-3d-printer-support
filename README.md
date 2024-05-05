@@ -32,3 +32,8 @@ After the factory reset, the file is refreshed, enabling z babystep value saving
 If there's no update in the "Device" tab, exit and re-enter to refresh. Ensure the Z-offset value in Klipper's printer.config is set to 0.000.
 
 **Caution**: Do not alter the Z-Offset value in fluidd and save, as it modifies printer.config, leading to nozzle-bed collision.
+
+# Support videos
+
+* Manual bed leveling
+  * https://drive.google.com/drive/folders/1X7hf3yTCm68X2Xyft8-adGz3cFb6TUWa?fbclid=IwZXh0bgNhZW0CMTAAAR0YAsjneGWPlj8rlqKabb9MNN1FMLsR3jWKPZY1t9VdIcqz7cjZizuGBmU_aem_ASrBBvQ2jzn_ZzsNe8Y8nKalGzqjC5k-Yl7kxPd-_ndSkHGJiI-4CZs3UvOrMnyjBsXyJGdYpqHEoOzUdegARAqG
