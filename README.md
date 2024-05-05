@@ -37,3 +37,7 @@ If there's no update in the "Device" tab, exit and re-enter to refresh. Ensure t
 
 * Manual bed leveling
   * https://drive.google.com/drive/folders/1X7hf3yTCm68X2Xyft8-adGz3cFb6TUWa?fbclid=IwZXh0bgNhZW0CMTAAAR0YAsjneGWPlj8rlqKabb9MNN1FMLsR3jWKPZY1t9VdIcqz7cjZizuGBmU_aem_ASrBBvQ2jzn_ZzsNe8Y8nKalGzqjC5k-Yl7kxPd-_ndSkHGJiI-4CZs3UvOrMnyjBsXyJGdYpqHEoOzUdegARAqG
+
+# Upgrades
+
+* https://beacon3d.com/
